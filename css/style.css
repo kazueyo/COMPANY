@@ -123,7 +123,7 @@ header .wrapper {
 .main-nav li {
     text-align: center;
     font-size: .75rem;
-    list-style* none;
+    list-style: none;
 }
 .logo {
     width: 7.5rem;
@@ -405,6 +405,7 @@ footer .btn {
 }
 .footer-nav li {
     margin: 1rem 0;
+    list-style: none;
 }
 .footer-nav a {
     color: #565350;
