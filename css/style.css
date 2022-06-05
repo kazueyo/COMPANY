@@ -578,6 +578,7 @@ DESKTOP SIZE
     }
     .footer-nav li {
         margin: 0 .75rem;
+        list-style: none;
     }
     .footer-nav a:hover {
         color: #fff;
