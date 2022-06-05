@@ -123,6 +123,7 @@ header .wrapper {
 .main-nav li {
     text-align: center;
     font-size: .75rem;
+    list-style* none;
 }
 .logo {
     width: 7.5rem;
