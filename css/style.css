@@ -132,6 +132,7 @@ header .wrapper {
     padding: .5rem;
     width: 4rem;
     list-style: none;
+    decoration: none;
 }
 .main-nav a::before {
     display: block;
