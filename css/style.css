@@ -46,6 +46,7 @@ main {
     font-size: 1.375rem;
     text-align: center;
     width: 100%;
+    text-decoration: none;	
 }
 .btn-primary {
     color: #fff;
