@@ -307,6 +307,17 @@ h3 {
 .timeline-content {
     font-family: sans-serif;
 }
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+li {
+    text-align: -webkit-match-parent;
+}
+
 
 /*
 FORM.html
